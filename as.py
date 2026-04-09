@@ -1,0 +1,2 @@
+ASsa
+hasattr(S)
