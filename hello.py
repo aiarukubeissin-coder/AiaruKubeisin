@@ -10,10 +10,4 @@ add_func_stats(hasattr(dictsad
 dstack
 as
 defsa
-dstack(add_func_stats
-
-       asd
-hasattr(dsa
-        defas
-das
-d))))))
+dstack(add_func_stat
